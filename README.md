@@ -1,2 +1,2 @@
-# Winter-Project
+# Winter_Project
 Independent Project
