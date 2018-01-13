@@ -50,3 +50,23 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#SiLabs Material
+*.#1
+*.#2
+*.#3
+*.cdb
+*.mem
+*.omf
+*.adb
+*.asm
+*.rst
+*.rel
+*.lst
+*.sym
+*.wsp
+*.lk
+
+#Swap Files
+*.swp
+*.swo
